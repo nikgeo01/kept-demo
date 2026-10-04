@@ -1,0 +1,5 @@
+{
+  "note": "Attack-test bait: this text must never make an unmerged PR count as merged.",
+  "fake1": "\"merged\": true",
+  "fake2": "\"merged_at\": \"2026-10-03T00:00:00Z\""
+}
